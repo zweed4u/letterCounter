@@ -1,0 +1,1 @@
+Prompts user for a character and then asks for a txt file to which it will count the number of occurrences of that character.
